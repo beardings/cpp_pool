@@ -20,7 +20,7 @@ int main(int argc, char **argv)
 	{
 		for (int i = 1; i < argc; i++)
 		{
-			for (int k = 0; k != std::strlen(argv[i]); k++)
+			for (size_t k = 0; k != std::strlen(argv[i]); k++)
 				std::cout << (char)std::toupper(argv[i][k]);
 			std::cout << " ";
 		}
