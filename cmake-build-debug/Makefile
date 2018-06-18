@@ -123,6 +123,33 @@ cpp_pool/fast:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/build
 .PHONY : cpp_pool/fast
 
+day00/ex01/ContactClass.o: day00/ex01/ContactClass.cpp.o
+
+.PHONY : day00/ex01/ContactClass.o
+
+# target to build an object file
+day00/ex01/ContactClass.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o
+.PHONY : day00/ex01/ContactClass.cpp.o
+
+day00/ex01/ContactClass.i: day00/ex01/ContactClass.cpp.i
+
+.PHONY : day00/ex01/ContactClass.i
+
+# target to preprocess a source file
+day00/ex01/ContactClass.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.i
+.PHONY : day00/ex01/ContactClass.cpp.i
+
+day00/ex01/ContactClass.s: day00/ex01/ContactClass.cpp.s
+
+.PHONY : day00/ex01/ContactClass.s
+
+# target to generate assembly for a file
+day00/ex01/ContactClass.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.s
+.PHONY : day00/ex01/ContactClass.cpp.s
+
 day00/ex01/main.o: day00/ex01/main.cpp.o
 
 .PHONY : day00/ex01/main.o
@@ -150,33 +177,6 @@ day00/ex01/main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.s
 .PHONY : day00/ex01/main.cpp.s
 
-day00/ex01/methods.class.o: day00/ex01/methods.class.cpp.o
-
-.PHONY : day00/ex01/methods.class.o
-
-# target to build an object file
-day00/ex01/methods.class.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/methods.class.cpp.o
-.PHONY : day00/ex01/methods.class.cpp.o
-
-day00/ex01/methods.class.i: day00/ex01/methods.class.cpp.i
-
-.PHONY : day00/ex01/methods.class.i
-
-# target to preprocess a source file
-day00/ex01/methods.class.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/methods.class.cpp.i
-.PHONY : day00/ex01/methods.class.cpp.i
-
-day00/ex01/methods.class.s: day00/ex01/methods.class.cpp.s
-
-.PHONY : day00/ex01/methods.class.s
-
-# target to generate assembly for a file
-day00/ex01/methods.class.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/methods.class.cpp.s
-.PHONY : day00/ex01/methods.class.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -186,12 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_pool"
+	@echo "... day00/ex01/ContactClass.o"
+	@echo "... day00/ex01/ContactClass.i"
+	@echo "... day00/ex01/ContactClass.s"
 	@echo "... day00/ex01/main.o"
 	@echo "... day00/ex01/main.i"
 	@echo "... day00/ex01/main.s"
-	@echo "... day00/ex01/methods.class.o"
-	@echo "... day00/ex01/methods.class.i"
-	@echo "... day00/ex01/methods.class.s"
 .PHONY : help
 
 
