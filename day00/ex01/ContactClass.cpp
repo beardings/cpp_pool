@@ -37,7 +37,7 @@ void	ContactClass::addContact( void ) {
 
 void ContactClass::printContact(int index) {
 
-    std::cout << index << index;
+    std::cout << std::setw(10) << index;
     std::cout << "|" << std::setw(10) << this->firstName;
     std::cout << "|" << std::setw(10) << this->lastName;
     std::cout << "|" << std::setw(10) << this->nickName << std::endl;
