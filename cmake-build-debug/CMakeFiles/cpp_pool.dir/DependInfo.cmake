@@ -4,8 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/mponomar/cpp_pool/day00/ex01/ContactClass.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o"
-  "/Users/mponomar/cpp_pool/day00/ex01/main.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o"
+  "/Users/mponomar/cpp_pool/day01/ex02/Zombie.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o"
+  "/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o"
+  "/Users/mponomar/cpp_pool/day01/ex02/main.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

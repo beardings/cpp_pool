@@ -80,13 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/mponomar/cpp_pool/day00/ex01/ContactClass.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day01/ex02/Zombie.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day00/ex01/ContactClass.hpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day01/ex02/Zombie.hpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day00/ex01/main.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.h">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day01/ex02/main.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
 		<Unit filename="/Users/mponomar/cpp_pool/CMakeLists.txt">

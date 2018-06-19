@@ -3,5 +3,4 @@ project(cpp_pool)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cpp_pool day00/ex01/main.cpp
-        day00/ex01/ContactClass.cpp day00/ex01/ContactClass.hpp)
+add_executable(cpp_pool day01/ex02/Zombie.cpp day01/ex02/Zombie.hpp day01/ex02/main.cpp day01/ex02/ZombieEvent.cpp day01/ex02/ZombieEvent.hpp)

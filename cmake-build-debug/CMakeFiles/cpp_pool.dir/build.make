@@ -57,67 +57,93 @@ include CMakeFiles/cpp_pool.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/cpp_pool.dir/flags.make
 
-CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
-CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o: ../day00/ex01/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o -c /Users/mponomar/cpp_pool/day00/ex01/main.cpp
+CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
+CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o: ../day01/ex02/Zombie.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o -c /Users/mponomar/cpp_pool/day01/ex02/Zombie.cpp
 
-CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day00/ex01/main.cpp > CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.i
+CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day01/ex02/Zombie.cpp > CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.i
 
-CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day00/ex01/main.cpp -o CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.s
+CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day01/ex02/Zombie.cpp -o CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.s
 
-CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o.requires:
+CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o.requires:
 
-.PHONY : CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o.requires
+.PHONY : CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o.requires
 
-CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o.provides: CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o.provides.build
-.PHONY : CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o.provides
+CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o.provides: CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o.provides
 
-CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o
+CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o
 
 
-CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
-CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o: ../day00/ex01/ContactClass.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o -c /Users/mponomar/cpp_pool/day00/ex01/ContactClass.cpp
+CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
+CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o: ../day01/ex02/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o -c /Users/mponomar/cpp_pool/day01/ex02/main.cpp
 
-CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day00/ex01/ContactClass.cpp > CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.i
+CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day01/ex02/main.cpp > CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.i
 
-CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day00/ex01/ContactClass.cpp -o CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.s
+CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day01/ex02/main.cpp -o CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.s
 
-CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o.requires:
+CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o.requires:
 
-.PHONY : CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o.requires
+.PHONY : CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o.requires
 
-CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o.provides: CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o.provides.build
-.PHONY : CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o.provides
+CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o.provides: CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o.provides
 
-CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o
+CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o
+
+
+CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
+CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o: ../day01/ex02/ZombieEvent.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o -c /Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.cpp
+
+CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.cpp > CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.i
+
+CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.cpp -o CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.s
+
+CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o.requires
+
+CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o.provides: CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o.provides
+
+CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o
 
 
 # Object files for target cpp_pool
 cpp_pool_OBJECTS = \
-"CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o" \
-"CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o"
+"CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o" \
+"CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o" \
+"CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o"
 
 # External object files for target cpp_pool
 cpp_pool_EXTERNAL_OBJECTS =
 
-cpp_pool: CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o
-cpp_pool: CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o
+cpp_pool: CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o
+cpp_pool: CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o
+cpp_pool: CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o
 cpp_pool: CMakeFiles/cpp_pool.dir/build.make
 cpp_pool: CMakeFiles/cpp_pool.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cpp_pool"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable cpp_pool"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_pool.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -125,8 +151,9 @@ CMakeFiles/cpp_pool.dir/build: cpp_pool
 
 .PHONY : CMakeFiles/cpp_pool.dir/build
 
-CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o.requires
-CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o.requires
+CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o.requires
+CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o.requires
+CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o.requires
 
 .PHONY : CMakeFiles/cpp_pool.dir/requires
 

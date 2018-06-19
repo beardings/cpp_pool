@@ -123,59 +123,86 @@ cpp_pool/fast:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/build
 .PHONY : cpp_pool/fast
 
-day00/ex01/ContactClass.o: day00/ex01/ContactClass.cpp.o
+day01/ex02/Zombie.o: day01/ex02/Zombie.cpp.o
 
-.PHONY : day00/ex01/ContactClass.o
-
-# target to build an object file
-day00/ex01/ContactClass.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.o
-.PHONY : day00/ex01/ContactClass.cpp.o
-
-day00/ex01/ContactClass.i: day00/ex01/ContactClass.cpp.i
-
-.PHONY : day00/ex01/ContactClass.i
-
-# target to preprocess a source file
-day00/ex01/ContactClass.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.i
-.PHONY : day00/ex01/ContactClass.cpp.i
-
-day00/ex01/ContactClass.s: day00/ex01/ContactClass.cpp.s
-
-.PHONY : day00/ex01/ContactClass.s
-
-# target to generate assembly for a file
-day00/ex01/ContactClass.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/ContactClass.cpp.s
-.PHONY : day00/ex01/ContactClass.cpp.s
-
-day00/ex01/main.o: day00/ex01/main.cpp.o
-
-.PHONY : day00/ex01/main.o
+.PHONY : day01/ex02/Zombie.o
 
 # target to build an object file
-day00/ex01/main.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.o
-.PHONY : day00/ex01/main.cpp.o
+day01/ex02/Zombie.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.o
+.PHONY : day01/ex02/Zombie.cpp.o
 
-day00/ex01/main.i: day00/ex01/main.cpp.i
+day01/ex02/Zombie.i: day01/ex02/Zombie.cpp.i
 
-.PHONY : day00/ex01/main.i
+.PHONY : day01/ex02/Zombie.i
 
 # target to preprocess a source file
-day00/ex01/main.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.i
-.PHONY : day00/ex01/main.cpp.i
+day01/ex02/Zombie.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.i
+.PHONY : day01/ex02/Zombie.cpp.i
 
-day00/ex01/main.s: day00/ex01/main.cpp.s
+day01/ex02/Zombie.s: day01/ex02/Zombie.cpp.s
 
-.PHONY : day00/ex01/main.s
+.PHONY : day01/ex02/Zombie.s
 
 # target to generate assembly for a file
-day00/ex01/main.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day00/ex01/main.cpp.s
-.PHONY : day00/ex01/main.cpp.s
+day01/ex02/Zombie.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/Zombie.cpp.s
+.PHONY : day01/ex02/Zombie.cpp.s
+
+day01/ex02/ZombieEvent.o: day01/ex02/ZombieEvent.cpp.o
+
+.PHONY : day01/ex02/ZombieEvent.o
+
+# target to build an object file
+day01/ex02/ZombieEvent.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.o
+.PHONY : day01/ex02/ZombieEvent.cpp.o
+
+day01/ex02/ZombieEvent.i: day01/ex02/ZombieEvent.cpp.i
+
+.PHONY : day01/ex02/ZombieEvent.i
+
+# target to preprocess a source file
+day01/ex02/ZombieEvent.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.i
+.PHONY : day01/ex02/ZombieEvent.cpp.i
+
+day01/ex02/ZombieEvent.s: day01/ex02/ZombieEvent.cpp.s
+
+.PHONY : day01/ex02/ZombieEvent.s
+
+# target to generate assembly for a file
+day01/ex02/ZombieEvent.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/ZombieEvent.cpp.s
+.PHONY : day01/ex02/ZombieEvent.cpp.s
+
+day01/ex02/main.o: day01/ex02/main.cpp.o
+
+.PHONY : day01/ex02/main.o
+
+# target to build an object file
+day01/ex02/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.o
+.PHONY : day01/ex02/main.cpp.o
+
+day01/ex02/main.i: day01/ex02/main.cpp.i
+
+.PHONY : day01/ex02/main.i
+
+# target to preprocess a source file
+day01/ex02/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.i
+.PHONY : day01/ex02/main.cpp.i
+
+day01/ex02/main.s: day01/ex02/main.cpp.s
+
+.PHONY : day01/ex02/main.s
+
+# target to generate assembly for a file
+day01/ex02/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex02/main.cpp.s
+.PHONY : day01/ex02/main.cpp.s
 
 # Help Target
 help:
@@ -186,12 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_pool"
-	@echo "... day00/ex01/ContactClass.o"
-	@echo "... day00/ex01/ContactClass.i"
-	@echo "... day00/ex01/ContactClass.s"
-	@echo "... day00/ex01/main.o"
-	@echo "... day00/ex01/main.i"
-	@echo "... day00/ex01/main.s"
+	@echo "... day01/ex02/Zombie.o"
+	@echo "... day01/ex02/Zombie.i"
+	@echo "... day01/ex02/Zombie.s"
+	@echo "... day01/ex02/ZombieEvent.o"
+	@echo "... day01/ex02/ZombieEvent.i"
+	@echo "... day01/ex02/ZombieEvent.s"
+	@echo "... day01/ex02/main.o"
+	@echo "... day01/ex02/main.i"
+	@echo "... day01/ex02/main.s"
 .PHONY : help
 
 

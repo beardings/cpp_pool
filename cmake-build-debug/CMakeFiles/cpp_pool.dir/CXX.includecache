@@ -6,21 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/mponomar/cpp_pool/day00/ex01/ContactClass.cpp
+/Users/mponomar/cpp_pool/day01/ex01/ex01.cpp
 iostream
 -
-iomanip
--
-ContactClass.hpp
-/Users/mponomar/cpp_pool/day00/ex01/ContactClass.hpp
-
-/Users/mponomar/cpp_pool/day00/ex01/ContactClass.hpp
-
-/Users/mponomar/cpp_pool/day00/ex01/main.cpp
-iostream
--
-iomanip
--
-ContactClass.hpp
-/Users/mponomar/cpp_pool/day00/ex01/ContactClass.hpp
 
