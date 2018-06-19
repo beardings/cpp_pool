@@ -38,9 +38,22 @@ void	ContactClass::addContact( void ) {
 void ContactClass::printContact(int index) {
 
     std::cout << std::setw(10) << index;
-    std::cout << "|" << std::setw(10) << this->firstName;
-    std::cout << "|" << std::setw(10) << this->lastName;
-    std::cout << "|" << std::setw(10) << this->nickName << std::endl;
+
+    if (this->firstName.length() > 10)
+        std::cout << "|" << this->firstName.substr(0, 9) << ".";
+    else
+        std::cout << "|" << std::setw(10) << this->firstName;
+
+    if (this->lastName.length() > 10)
+        std::cout << "|" << this->lastName.substr(0, 9) << ".";
+    else
+        std::cout << "|" << std::setw(10) << this->lastName;
+
+    if (this->nickName.length() > 10)
+        std::cout << "|" << this->nickName.substr(0, 9) << ".";
+    else
+        std::cout << "|" << std::setw(10) << this->nickName << std::endl;
+
     return ;
 
 }
