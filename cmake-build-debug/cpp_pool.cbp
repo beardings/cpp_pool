@@ -89,7 +89,7 @@
 		<Unit filename="/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.h">
+		<Unit filename="/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.hpp">
 			<Option target="cpp_pool"/>
 		</Unit>
 		<Unit filename="/Users/mponomar/cpp_pool/day01/ex02/main.cpp">

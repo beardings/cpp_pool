@@ -6,7 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/Users/mponomar/cpp_pool/day01/ex01/ex01.cpp
+/Users/mponomar/cpp_pool/day01/ex02/Zombie.cpp
+Zombie.hpp
+/Users/mponomar/cpp_pool/day01/ex02/Zombie.hpp
+
+/Users/mponomar/cpp_pool/day01/ex02/Zombie.hpp
 iostream
 -
+random
+-
+
+/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.cpp
+ZombieEvent.hpp
+/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.hpp
+
+/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.hpp
+Zombie.hpp
+/Users/mponomar/cpp_pool/day01/ex02/Zombie.hpp
+
+/Users/mponomar/cpp_pool/day01/ex02/main.cpp
+Zombie.hpp
+/Users/mponomar/cpp_pool/day01/ex02/Zombie.hpp
+ZombieEvent.hpp
+/Users/mponomar/cpp_pool/day01/ex02/ZombieEvent.hpp
 
