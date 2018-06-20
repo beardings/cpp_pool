@@ -123,32 +123,113 @@ cpp_pool/fast:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/build
 .PHONY : cpp_pool/fast
 
-day01/ex07/replace.o: day01/ex07/replace.cpp.o
+day01/ex06/HumanA.o: day01/ex06/HumanA.cpp.o
 
-.PHONY : day01/ex07/replace.o
+.PHONY : day01/ex06/HumanA.o
 
 # target to build an object file
-day01/ex07/replace.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex07/replace.cpp.o
-.PHONY : day01/ex07/replace.cpp.o
+day01/ex06/HumanA.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/HumanA.cpp.o
+.PHONY : day01/ex06/HumanA.cpp.o
 
-day01/ex07/replace.i: day01/ex07/replace.cpp.i
+day01/ex06/HumanA.i: day01/ex06/HumanA.cpp.i
 
-.PHONY : day01/ex07/replace.i
+.PHONY : day01/ex06/HumanA.i
 
 # target to preprocess a source file
-day01/ex07/replace.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex07/replace.cpp.i
-.PHONY : day01/ex07/replace.cpp.i
+day01/ex06/HumanA.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/HumanA.cpp.i
+.PHONY : day01/ex06/HumanA.cpp.i
 
-day01/ex07/replace.s: day01/ex07/replace.cpp.s
+day01/ex06/HumanA.s: day01/ex06/HumanA.cpp.s
 
-.PHONY : day01/ex07/replace.s
+.PHONY : day01/ex06/HumanA.s
 
 # target to generate assembly for a file
-day01/ex07/replace.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex07/replace.cpp.s
-.PHONY : day01/ex07/replace.cpp.s
+day01/ex06/HumanA.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/HumanA.cpp.s
+.PHONY : day01/ex06/HumanA.cpp.s
+
+day01/ex06/HumanB.o: day01/ex06/HumanB.cpp.o
+
+.PHONY : day01/ex06/HumanB.o
+
+# target to build an object file
+day01/ex06/HumanB.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/HumanB.cpp.o
+.PHONY : day01/ex06/HumanB.cpp.o
+
+day01/ex06/HumanB.i: day01/ex06/HumanB.cpp.i
+
+.PHONY : day01/ex06/HumanB.i
+
+# target to preprocess a source file
+day01/ex06/HumanB.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/HumanB.cpp.i
+.PHONY : day01/ex06/HumanB.cpp.i
+
+day01/ex06/HumanB.s: day01/ex06/HumanB.cpp.s
+
+.PHONY : day01/ex06/HumanB.s
+
+# target to generate assembly for a file
+day01/ex06/HumanB.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/HumanB.cpp.s
+.PHONY : day01/ex06/HumanB.cpp.s
+
+day01/ex06/Weapon.o: day01/ex06/Weapon.cpp.o
+
+.PHONY : day01/ex06/Weapon.o
+
+# target to build an object file
+day01/ex06/Weapon.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/Weapon.cpp.o
+.PHONY : day01/ex06/Weapon.cpp.o
+
+day01/ex06/Weapon.i: day01/ex06/Weapon.cpp.i
+
+.PHONY : day01/ex06/Weapon.i
+
+# target to preprocess a source file
+day01/ex06/Weapon.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/Weapon.cpp.i
+.PHONY : day01/ex06/Weapon.cpp.i
+
+day01/ex06/Weapon.s: day01/ex06/Weapon.cpp.s
+
+.PHONY : day01/ex06/Weapon.s
+
+# target to generate assembly for a file
+day01/ex06/Weapon.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/Weapon.cpp.s
+.PHONY : day01/ex06/Weapon.cpp.s
+
+day01/ex06/main.o: day01/ex06/main.cpp.o
+
+.PHONY : day01/ex06/main.o
+
+# target to build an object file
+day01/ex06/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/main.cpp.o
+.PHONY : day01/ex06/main.cpp.o
+
+day01/ex06/main.i: day01/ex06/main.cpp.i
+
+.PHONY : day01/ex06/main.i
+
+# target to preprocess a source file
+day01/ex06/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/main.cpp.i
+.PHONY : day01/ex06/main.cpp.i
+
+day01/ex06/main.s: day01/ex06/main.cpp.s
+
+.PHONY : day01/ex06/main.s
+
+# target to generate assembly for a file
+day01/ex06/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex06/main.cpp.s
+.PHONY : day01/ex06/main.cpp.s
 
 # Help Target
 help:
@@ -159,9 +240,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_pool"
-	@echo "... day01/ex07/replace.o"
-	@echo "... day01/ex07/replace.i"
-	@echo "... day01/ex07/replace.s"
+	@echo "... day01/ex06/HumanA.o"
+	@echo "... day01/ex06/HumanA.i"
+	@echo "... day01/ex06/HumanA.s"
+	@echo "... day01/ex06/HumanB.o"
+	@echo "... day01/ex06/HumanB.i"
+	@echo "... day01/ex06/HumanB.s"
+	@echo "... day01/ex06/Weapon.o"
+	@echo "... day01/ex06/Weapon.i"
+	@echo "... day01/ex06/Weapon.s"
+	@echo "... day01/ex06/main.o"
+	@echo "... day01/ex06/main.i"
+	@echo "... day01/ex06/main.s"
 .PHONY : help
 
 

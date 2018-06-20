@@ -6,9 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/Users/mponomar/cpp_pool/day01/ex07/replace.cpp
+/Users/mponomar/cpp_pool/day01/ex06/HumanA.cpp
+HumanA.hpp
+/Users/mponomar/cpp_pool/day01/ex06/HumanA.hpp
+
+/Users/mponomar/cpp_pool/day01/ex06/HumanA.hpp
+Weapon.hpp
+/Users/mponomar/cpp_pool/day01/ex06/Weapon.hpp
+
+/Users/mponomar/cpp_pool/day01/ex06/HumanB.cpp
+HumanB.hpp
+/Users/mponomar/cpp_pool/day01/ex06/HumanB.hpp
+
+/Users/mponomar/cpp_pool/day01/ex06/HumanB.hpp
+Weapon.hpp
+/Users/mponomar/cpp_pool/day01/ex06/Weapon.hpp
+
+/Users/mponomar/cpp_pool/day01/ex06/Weapon.cpp
+Weapon.hpp
+/Users/mponomar/cpp_pool/day01/ex06/Weapon.hpp
+
+/Users/mponomar/cpp_pool/day01/ex06/Weapon.hpp
 iostream
 -
-fstream
--
+
+/Users/mponomar/cpp_pool/day01/ex06/main.cpp
+Weapon.hpp
+/Users/mponomar/cpp_pool/day01/ex06/Weapon.hpp
+HumanA.hpp
+/Users/mponomar/cpp_pool/day01/ex06/HumanA.hpp
+HumanB.hpp
+/Users/mponomar/cpp_pool/day01/ex06/HumanB.hpp
 
