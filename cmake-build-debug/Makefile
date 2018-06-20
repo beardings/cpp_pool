@@ -123,86 +123,32 @@ cpp_pool/fast:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/build
 .PHONY : cpp_pool/fast
 
-day01/ex05/Brain.o: day01/ex05/Brain.cpp.o
+day01/ex07/replace.o: day01/ex07/replace.cpp.o
 
-.PHONY : day01/ex05/Brain.o
-
-# target to build an object file
-day01/ex05/Brain.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Brain.cpp.o
-.PHONY : day01/ex05/Brain.cpp.o
-
-day01/ex05/Brain.i: day01/ex05/Brain.cpp.i
-
-.PHONY : day01/ex05/Brain.i
-
-# target to preprocess a source file
-day01/ex05/Brain.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Brain.cpp.i
-.PHONY : day01/ex05/Brain.cpp.i
-
-day01/ex05/Brain.s: day01/ex05/Brain.cpp.s
-
-.PHONY : day01/ex05/Brain.s
-
-# target to generate assembly for a file
-day01/ex05/Brain.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Brain.cpp.s
-.PHONY : day01/ex05/Brain.cpp.s
-
-day01/ex05/Human.o: day01/ex05/Human.cpp.o
-
-.PHONY : day01/ex05/Human.o
+.PHONY : day01/ex07/replace.o
 
 # target to build an object file
-day01/ex05/Human.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Human.cpp.o
-.PHONY : day01/ex05/Human.cpp.o
+day01/ex07/replace.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex07/replace.cpp.o
+.PHONY : day01/ex07/replace.cpp.o
 
-day01/ex05/Human.i: day01/ex05/Human.cpp.i
+day01/ex07/replace.i: day01/ex07/replace.cpp.i
 
-.PHONY : day01/ex05/Human.i
-
-# target to preprocess a source file
-day01/ex05/Human.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Human.cpp.i
-.PHONY : day01/ex05/Human.cpp.i
-
-day01/ex05/Human.s: day01/ex05/Human.cpp.s
-
-.PHONY : day01/ex05/Human.s
-
-# target to generate assembly for a file
-day01/ex05/Human.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Human.cpp.s
-.PHONY : day01/ex05/Human.cpp.s
-
-day01/ex05/main.o: day01/ex05/main.cpp.o
-
-.PHONY : day01/ex05/main.o
-
-# target to build an object file
-day01/ex05/main.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/main.cpp.o
-.PHONY : day01/ex05/main.cpp.o
-
-day01/ex05/main.i: day01/ex05/main.cpp.i
-
-.PHONY : day01/ex05/main.i
+.PHONY : day01/ex07/replace.i
 
 # target to preprocess a source file
-day01/ex05/main.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/main.cpp.i
-.PHONY : day01/ex05/main.cpp.i
+day01/ex07/replace.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex07/replace.cpp.i
+.PHONY : day01/ex07/replace.cpp.i
 
-day01/ex05/main.s: day01/ex05/main.cpp.s
+day01/ex07/replace.s: day01/ex07/replace.cpp.s
 
-.PHONY : day01/ex05/main.s
+.PHONY : day01/ex07/replace.s
 
 # target to generate assembly for a file
-day01/ex05/main.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/main.cpp.s
-.PHONY : day01/ex05/main.cpp.s
+day01/ex07/replace.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex07/replace.cpp.s
+.PHONY : day01/ex07/replace.cpp.s
 
 # Help Target
 help:
@@ -213,15 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_pool"
-	@echo "... day01/ex05/Brain.o"
-	@echo "... day01/ex05/Brain.i"
-	@echo "... day01/ex05/Brain.s"
-	@echo "... day01/ex05/Human.o"
-	@echo "... day01/ex05/Human.i"
-	@echo "... day01/ex05/Human.s"
-	@echo "... day01/ex05/main.o"
-	@echo "... day01/ex05/main.i"
-	@echo "... day01/ex05/main.s"
+	@echo "... day01/ex07/replace.o"
+	@echo "... day01/ex07/replace.i"
+	@echo "... day01/ex07/replace.s"
 .PHONY : help
 
 
