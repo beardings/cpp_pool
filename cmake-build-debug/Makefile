@@ -123,59 +123,59 @@ cpp_pool/fast:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/build
 .PHONY : cpp_pool/fast
 
-day01/ex08/Human.o: day01/ex08/Human.cpp.o
+day01/ex09/Logger.o: day01/ex09/Logger.cpp.o
 
-.PHONY : day01/ex08/Human.o
-
-# target to build an object file
-day01/ex08/Human.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex08/Human.cpp.o
-.PHONY : day01/ex08/Human.cpp.o
-
-day01/ex08/Human.i: day01/ex08/Human.cpp.i
-
-.PHONY : day01/ex08/Human.i
-
-# target to preprocess a source file
-day01/ex08/Human.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex08/Human.cpp.i
-.PHONY : day01/ex08/Human.cpp.i
-
-day01/ex08/Human.s: day01/ex08/Human.cpp.s
-
-.PHONY : day01/ex08/Human.s
-
-# target to generate assembly for a file
-day01/ex08/Human.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex08/Human.cpp.s
-.PHONY : day01/ex08/Human.cpp.s
-
-day01/ex08/main.o: day01/ex08/main.cpp.o
-
-.PHONY : day01/ex08/main.o
+.PHONY : day01/ex09/Logger.o
 
 # target to build an object file
-day01/ex08/main.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex08/main.cpp.o
-.PHONY : day01/ex08/main.cpp.o
+day01/ex09/Logger.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex09/Logger.cpp.o
+.PHONY : day01/ex09/Logger.cpp.o
 
-day01/ex08/main.i: day01/ex08/main.cpp.i
+day01/ex09/Logger.i: day01/ex09/Logger.cpp.i
 
-.PHONY : day01/ex08/main.i
+.PHONY : day01/ex09/Logger.i
 
 # target to preprocess a source file
-day01/ex08/main.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex08/main.cpp.i
-.PHONY : day01/ex08/main.cpp.i
+day01/ex09/Logger.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex09/Logger.cpp.i
+.PHONY : day01/ex09/Logger.cpp.i
 
-day01/ex08/main.s: day01/ex08/main.cpp.s
+day01/ex09/Logger.s: day01/ex09/Logger.cpp.s
 
-.PHONY : day01/ex08/main.s
+.PHONY : day01/ex09/Logger.s
 
 # target to generate assembly for a file
-day01/ex08/main.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex08/main.cpp.s
-.PHONY : day01/ex08/main.cpp.s
+day01/ex09/Logger.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex09/Logger.cpp.s
+.PHONY : day01/ex09/Logger.cpp.s
+
+day01/ex09/main.o: day01/ex09/main.cpp.o
+
+.PHONY : day01/ex09/main.o
+
+# target to build an object file
+day01/ex09/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex09/main.cpp.o
+.PHONY : day01/ex09/main.cpp.o
+
+day01/ex09/main.i: day01/ex09/main.cpp.i
+
+.PHONY : day01/ex09/main.i
+
+# target to preprocess a source file
+day01/ex09/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex09/main.cpp.i
+.PHONY : day01/ex09/main.cpp.i
+
+day01/ex09/main.s: day01/ex09/main.cpp.s
+
+.PHONY : day01/ex09/main.s
+
+# target to generate assembly for a file
+day01/ex09/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex09/main.cpp.s
+.PHONY : day01/ex09/main.cpp.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_pool"
-	@echo "... day01/ex08/Human.o"
-	@echo "... day01/ex08/Human.i"
-	@echo "... day01/ex08/Human.s"
-	@echo "... day01/ex08/main.o"
-	@echo "... day01/ex08/main.i"
-	@echo "... day01/ex08/main.s"
+	@echo "... day01/ex09/Logger.o"
+	@echo "... day01/ex09/Logger.i"
+	@echo "... day01/ex09/Logger.s"
+	@echo "... day01/ex09/main.o"
+	@echo "... day01/ex09/main.i"
+	@echo "... day01/ex09/main.s"
 .PHONY : help
 
 

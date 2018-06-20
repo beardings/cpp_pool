@@ -80,13 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/mponomar/cpp_pool/day01/ex08/Human.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day01/ex09/Logger.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day01/ex08/Human.hpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day01/ex09/Logger.hpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day01/ex08/main.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day01/ex09/main.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
 		<Unit filename="/Users/mponomar/cpp_pool/CMakeLists.txt">

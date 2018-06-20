@@ -3,4 +3,4 @@ project(cpp_pool)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cpp_pool day01/ex08/Human.cpp day01/ex08/Human.hpp day01/ex08/main.cpp)
+add_executable(cpp_pool day01/ex09/main.cpp day01/ex09/Logger.cpp day01/ex09/Logger.hpp)
