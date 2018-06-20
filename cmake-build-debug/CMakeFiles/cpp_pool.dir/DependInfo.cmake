@@ -4,10 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/mponomar/cpp_pool/day01/ex06/HumanA.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day01/ex06/HumanA.cpp.o"
-  "/Users/mponomar/cpp_pool/day01/ex06/HumanB.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day01/ex06/HumanB.cpp.o"
-  "/Users/mponomar/cpp_pool/day01/ex06/Weapon.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day01/ex06/Weapon.cpp.o"
-  "/Users/mponomar/cpp_pool/day01/ex06/main.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day01/ex06/main.cpp.o"
+  "/Users/mponomar/cpp_pool/day01/ex08/Human.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day01/ex08/Human.cpp.o"
+  "/Users/mponomar/cpp_pool/day01/ex08/main.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day01/ex08/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -3,8 +3,4 @@ project(cpp_pool)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cpp_pool day01/ex06/Weapon.cpp
-        day01/ex06/Weapon.hpp
-        day01/ex06/main.cpp
-        day01/ex06/HumanA.cpp
-        day01/ex06/HumanA.hpp day01/ex06/HumanB.cpp day01/ex06/HumanB.hpp)
+add_executable(cpp_pool day01/ex08/Human.cpp day01/ex08/Human.hpp day01/ex08/main.cpp)
