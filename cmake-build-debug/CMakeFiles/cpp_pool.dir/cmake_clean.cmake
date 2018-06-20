@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cpp_pool.dir/day01/ex03/Zombie.cpp.o"
-  "CMakeFiles/cpp_pool.dir/day01/ex03/main.cpp.o"
-  "CMakeFiles/cpp_pool.dir/day01/ex03/ZombieHorde.cpp.o"
+  "CMakeFiles/cpp_pool.dir/day01/ex05/main.cpp.o"
+  "CMakeFiles/cpp_pool.dir/day01/ex05/Human.cpp.o"
+  "CMakeFiles/cpp_pool.dir/day01/ex05/Brain.cpp.o"
   "cpp_pool.pdb"
   "cpp_pool"
 )

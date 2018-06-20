@@ -123,86 +123,86 @@ cpp_pool/fast:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/build
 .PHONY : cpp_pool/fast
 
-day01/ex03/Zombie.o: day01/ex03/Zombie.cpp.o
+day01/ex05/Brain.o: day01/ex05/Brain.cpp.o
 
-.PHONY : day01/ex03/Zombie.o
-
-# target to build an object file
-day01/ex03/Zombie.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex03/Zombie.cpp.o
-.PHONY : day01/ex03/Zombie.cpp.o
-
-day01/ex03/Zombie.i: day01/ex03/Zombie.cpp.i
-
-.PHONY : day01/ex03/Zombie.i
-
-# target to preprocess a source file
-day01/ex03/Zombie.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex03/Zombie.cpp.i
-.PHONY : day01/ex03/Zombie.cpp.i
-
-day01/ex03/Zombie.s: day01/ex03/Zombie.cpp.s
-
-.PHONY : day01/ex03/Zombie.s
-
-# target to generate assembly for a file
-day01/ex03/Zombie.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex03/Zombie.cpp.s
-.PHONY : day01/ex03/Zombie.cpp.s
-
-day01/ex03/ZombieHorde.o: day01/ex03/ZombieHorde.cpp.o
-
-.PHONY : day01/ex03/ZombieHorde.o
+.PHONY : day01/ex05/Brain.o
 
 # target to build an object file
-day01/ex03/ZombieHorde.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex03/ZombieHorde.cpp.o
-.PHONY : day01/ex03/ZombieHorde.cpp.o
+day01/ex05/Brain.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Brain.cpp.o
+.PHONY : day01/ex05/Brain.cpp.o
 
-day01/ex03/ZombieHorde.i: day01/ex03/ZombieHorde.cpp.i
+day01/ex05/Brain.i: day01/ex05/Brain.cpp.i
 
-.PHONY : day01/ex03/ZombieHorde.i
+.PHONY : day01/ex05/Brain.i
 
 # target to preprocess a source file
-day01/ex03/ZombieHorde.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex03/ZombieHorde.cpp.i
-.PHONY : day01/ex03/ZombieHorde.cpp.i
+day01/ex05/Brain.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Brain.cpp.i
+.PHONY : day01/ex05/Brain.cpp.i
 
-day01/ex03/ZombieHorde.s: day01/ex03/ZombieHorde.cpp.s
+day01/ex05/Brain.s: day01/ex05/Brain.cpp.s
 
-.PHONY : day01/ex03/ZombieHorde.s
+.PHONY : day01/ex05/Brain.s
 
 # target to generate assembly for a file
-day01/ex03/ZombieHorde.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex03/ZombieHorde.cpp.s
-.PHONY : day01/ex03/ZombieHorde.cpp.s
+day01/ex05/Brain.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Brain.cpp.s
+.PHONY : day01/ex05/Brain.cpp.s
 
-day01/ex03/main.o: day01/ex03/main.cpp.o
+day01/ex05/Human.o: day01/ex05/Human.cpp.o
 
-.PHONY : day01/ex03/main.o
+.PHONY : day01/ex05/Human.o
 
 # target to build an object file
-day01/ex03/main.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex03/main.cpp.o
-.PHONY : day01/ex03/main.cpp.o
+day01/ex05/Human.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Human.cpp.o
+.PHONY : day01/ex05/Human.cpp.o
 
-day01/ex03/main.i: day01/ex03/main.cpp.i
+day01/ex05/Human.i: day01/ex05/Human.cpp.i
 
-.PHONY : day01/ex03/main.i
+.PHONY : day01/ex05/Human.i
 
 # target to preprocess a source file
-day01/ex03/main.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex03/main.cpp.i
-.PHONY : day01/ex03/main.cpp.i
+day01/ex05/Human.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Human.cpp.i
+.PHONY : day01/ex05/Human.cpp.i
 
-day01/ex03/main.s: day01/ex03/main.cpp.s
+day01/ex05/Human.s: day01/ex05/Human.cpp.s
 
-.PHONY : day01/ex03/main.s
+.PHONY : day01/ex05/Human.s
 
 # target to generate assembly for a file
-day01/ex03/main.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex03/main.cpp.s
-.PHONY : day01/ex03/main.cpp.s
+day01/ex05/Human.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/Human.cpp.s
+.PHONY : day01/ex05/Human.cpp.s
+
+day01/ex05/main.o: day01/ex05/main.cpp.o
+
+.PHONY : day01/ex05/main.o
+
+# target to build an object file
+day01/ex05/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/main.cpp.o
+.PHONY : day01/ex05/main.cpp.o
+
+day01/ex05/main.i: day01/ex05/main.cpp.i
+
+.PHONY : day01/ex05/main.i
+
+# target to preprocess a source file
+day01/ex05/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/main.cpp.i
+.PHONY : day01/ex05/main.cpp.i
+
+day01/ex05/main.s: day01/ex05/main.cpp.s
+
+.PHONY : day01/ex05/main.s
+
+# target to generate assembly for a file
+day01/ex05/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day01/ex05/main.cpp.s
+.PHONY : day01/ex05/main.cpp.s
 
 # Help Target
 help:
@@ -213,15 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_pool"
-	@echo "... day01/ex03/Zombie.o"
-	@echo "... day01/ex03/Zombie.i"
-	@echo "... day01/ex03/Zombie.s"
-	@echo "... day01/ex03/ZombieHorde.o"
-	@echo "... day01/ex03/ZombieHorde.i"
-	@echo "... day01/ex03/ZombieHorde.s"
-	@echo "... day01/ex03/main.o"
-	@echo "... day01/ex03/main.i"
-	@echo "... day01/ex03/main.s"
+	@echo "... day01/ex05/Brain.o"
+	@echo "... day01/ex05/Brain.i"
+	@echo "... day01/ex05/Brain.s"
+	@echo "... day01/ex05/Human.o"
+	@echo "... day01/ex05/Human.i"
+	@echo "... day01/ex05/Human.s"
+	@echo "... day01/ex05/main.o"
+	@echo "... day01/ex05/main.i"
+	@echo "... day01/ex05/main.s"
 .PHONY : help
 
 

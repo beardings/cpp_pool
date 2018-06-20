@@ -12,11 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4539412f-9213-441f-bd08-891f8d87b5c5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex03/Zombie.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex03/Zombie.hpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex03/ZombieHorde.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex03/ZombieHorde.hpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex03/main.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex04/ex04.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex05/Brain.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex05/Brain.hpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex05/Human.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex05/Human.hpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/day01/ex05/main.cpp" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_pool.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_pool.dir/CXX.includecache" />
@@ -40,46 +41,46 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.3816794">
+    <splitter split-orientation="horizontal" split-proportion="0.45107564">
       <split-first>
         <leaf>
           <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="87" lean-forward="false" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+                <state relative-caret-position="135">
+                  <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/day01/ex03/main.cpp">
+          <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/day01/ex05/main.cpp">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="180">
-                  <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                  <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
                   <folding>
-                    <element signature="e#53#73#0" expanded="true" />
+                    <marker date="1529502388236" expanded="true" signature="160:277" ph="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ZombieHorde.cpp" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/day01/ex03/ZombieHorde.cpp">
+          <file leaf-file-name="Brain.cpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/day01/ex05/Brain.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                <state relative-caret-position="180">
+                  <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Zombie.cpp" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/day01/ex03/Zombie.cpp">
+          <file leaf-file-name="Human.cpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/day01/ex05/Human.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="489">
-                  <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+                <state relative-caret-position="90">
+                  <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
                   <folding />
                 </state>
               </provider>
@@ -89,12 +90,24 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ZombieHorde.hpp" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/day01/ex03/ZombieHorde.hpp">
+          <file leaf-file-name="Human.hpp" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/day01/ex05/Human.hpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+                <state relative-caret-position="180">
+                  <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Brain.hpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/day01/ex05/Brain.hpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+                  <folding>
+                    <element signature="e#91#110#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -133,11 +146,19 @@
         <option value="$PROJECT_DIR$/day01/ex02/Zombie.cpp" />
         <option value="$PROJECT_DIR$/day01/ex02/ZombieEvent.cpp" />
         <option value="$PROJECT_DIR$/day01/ex02/main.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/day01/ex03/ZombieHorde.h" />
         <option value="$PROJECT_DIR$/day01/ex03/main.cpp" />
         <option value="$PROJECT_DIR$/day01/ex03/ZombieHorde.hpp" />
         <option value="$PROJECT_DIR$/day01/ex03/ZombieHorde.cpp" />
+        <option value="$PROJECT_DIR$/day01/ex04/ex04.cpp" />
+        <option value="$PROJECT_DIR$/day01/ex05/Human.h" />
+        <option value="$PROJECT_DIR$/day01/ex05/Brain.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/day01/ex05/Human.hpp" />
+        <option value="$PROJECT_DIR$/day01/ex05/Human.cpp" />
+        <option value="$PROJECT_DIR$/day01/ex05/Brain.cpp" />
+        <option value="$PROJECT_DIR$/day01/ex05/Brain.hpp" />
+        <option value="$PROJECT_DIR$/day01/ex05/main.cpp" />
       </list>
     </option>
   </component>
@@ -200,12 +221,6 @@
               <item name="cpp_pool" type="462c0819:PsiDirectoryNode" />
               <item name="day01" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cpp_pool" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="cpp_pool" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-              <item name="ex03" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -266,7 +281,7 @@
       <workItem from="1529341785443" duration="6187000" />
       <workItem from="1529426344905" duration="6327000" />
       <workItem from="1529434150688" duration="672000" />
-      <workItem from="1529489644494" duration="7924000" />
+      <workItem from="1529489644494" duration="10113000" />
     </task>
     <task id="LOCAL-00001" summary="day00 - ex00 - done">
       <created>1522779553548</created>
@@ -324,26 +339,33 @@
       <option name="project" value="LOCAL" />
       <updated>1529498221264</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add day01 ex03">
+      <created>1529499681732</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1529499681732</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26590000" />
+    <option name="totallyTimeSpent" value="28779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815534" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991952" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32815534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39902914" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39902914" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -367,7 +389,8 @@
     <MESSAGE value="last settings day00 ex01" />
     <MESSAGE value="done day00 ex01" />
     <MESSAGE value="add day01 ex02" />
-    <option name="LAST_COMMIT_MESSAGE" value="add day01 ex02" />
+    <MESSAGE value="add day01 ex03" />
+    <option name="LAST_COMMIT_MESSAGE" value="add day01 ex03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -383,51 +406,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day01/ex01/ex01.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day00/ex01/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day00/ex01/ContactClass.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="70" column="34" lean-forward="false" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day00/ex01/ContactClass.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day00/ex01/methods.class.cpp" />
     <entry file="file://$PROJECT_DIR$/day00/ex01/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
@@ -627,20 +605,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="87" lean-forward="false" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day01/ex03/Zombie.hpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding>
-            <element signature="e#92#111#0" expanded="true" />
+            <element signature="e#92#111#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -650,7 +620,7 @@
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#53#73#0" expanded="true" />
+            <element signature="e#53#73#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -676,6 +646,66 @@
         <state relative-caret-position="489">
           <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/ex04/ex04.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/ex05/Brain.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="e#91#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/ex05/Human.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/ex05/Human.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/ex05/Brain.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/ex05/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <marker date="1529502388236" expanded="true" signature="160:277" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

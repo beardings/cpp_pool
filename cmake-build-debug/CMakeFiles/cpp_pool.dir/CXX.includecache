@@ -6,27 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/Users/mponomar/cpp_pool/day01/ex03/Zombie.cpp
-Zombie.hpp
-/Users/mponomar/cpp_pool/day01/ex03/Zombie.hpp
+/Users/mponomar/cpp_pool/day01/ex05/Brain.cpp
+Brain.hpp
+/Users/mponomar/cpp_pool/day01/ex05/Brain.hpp
 
-/Users/mponomar/cpp_pool/day01/ex03/Zombie.hpp
+/Users/mponomar/cpp_pool/day01/ex05/Brain.hpp
 iostream
 -
-random
+ctime
+-
+sstream
 -
 
-/Users/mponomar/cpp_pool/day01/ex03/ZombieHorde.cpp
-ZombieHorde.hpp
-/Users/mponomar/cpp_pool/day01/ex03/ZombieHorde.hpp
+/Users/mponomar/cpp_pool/day01/ex05/Human.cpp
+Human.hpp
+/Users/mponomar/cpp_pool/day01/ex05/Human.hpp
 
-/Users/mponomar/cpp_pool/day01/ex03/ZombieHorde.hpp
-Zombie.hpp
-/Users/mponomar/cpp_pool/day01/ex03/Zombie.hpp
+/Users/mponomar/cpp_pool/day01/ex05/Human.hpp
+Brain.hpp
+/Users/mponomar/cpp_pool/day01/ex05/Brain.hpp
 
-/Users/mponomar/cpp_pool/day01/ex03/main.cpp
-Zombie.hpp
-/Users/mponomar/cpp_pool/day01/ex03/Zombie.hpp
-ZombieHorde.hpp
-/Users/mponomar/cpp_pool/day01/ex03/ZombieHorde.hpp
+/Users/mponomar/cpp_pool/day01/ex05/main.cpp
+Human.hpp
+/Users/mponomar/cpp_pool/day01/ex05/Human.hpp
 
