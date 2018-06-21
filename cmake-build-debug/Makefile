@@ -123,59 +123,59 @@ cpp_pool/fast:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/build
 .PHONY : cpp_pool/fast
 
-day02/ex00/Fixed.o: day02/ex00/Fixed.cpp.o
+day02/ex01/Fixed.o: day02/ex01/Fixed.cpp.o
 
-.PHONY : day02/ex00/Fixed.o
-
-# target to build an object file
-day02/ex00/Fixed.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex00/Fixed.cpp.o
-.PHONY : day02/ex00/Fixed.cpp.o
-
-day02/ex00/Fixed.i: day02/ex00/Fixed.cpp.i
-
-.PHONY : day02/ex00/Fixed.i
-
-# target to preprocess a source file
-day02/ex00/Fixed.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex00/Fixed.cpp.i
-.PHONY : day02/ex00/Fixed.cpp.i
-
-day02/ex00/Fixed.s: day02/ex00/Fixed.cpp.s
-
-.PHONY : day02/ex00/Fixed.s
-
-# target to generate assembly for a file
-day02/ex00/Fixed.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex00/Fixed.cpp.s
-.PHONY : day02/ex00/Fixed.cpp.s
-
-day02/ex00/main.o: day02/ex00/main.cpp.o
-
-.PHONY : day02/ex00/main.o
+.PHONY : day02/ex01/Fixed.o
 
 # target to build an object file
-day02/ex00/main.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex00/main.cpp.o
-.PHONY : day02/ex00/main.cpp.o
+day02/ex01/Fixed.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex01/Fixed.cpp.o
+.PHONY : day02/ex01/Fixed.cpp.o
 
-day02/ex00/main.i: day02/ex00/main.cpp.i
+day02/ex01/Fixed.i: day02/ex01/Fixed.cpp.i
 
-.PHONY : day02/ex00/main.i
+.PHONY : day02/ex01/Fixed.i
 
 # target to preprocess a source file
-day02/ex00/main.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex00/main.cpp.i
-.PHONY : day02/ex00/main.cpp.i
+day02/ex01/Fixed.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex01/Fixed.cpp.i
+.PHONY : day02/ex01/Fixed.cpp.i
 
-day02/ex00/main.s: day02/ex00/main.cpp.s
+day02/ex01/Fixed.s: day02/ex01/Fixed.cpp.s
 
-.PHONY : day02/ex00/main.s
+.PHONY : day02/ex01/Fixed.s
 
 # target to generate assembly for a file
-day02/ex00/main.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex00/main.cpp.s
-.PHONY : day02/ex00/main.cpp.s
+day02/ex01/Fixed.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex01/Fixed.cpp.s
+.PHONY : day02/ex01/Fixed.cpp.s
+
+day02/ex01/main.o: day02/ex01/main.cpp.o
+
+.PHONY : day02/ex01/main.o
+
+# target to build an object file
+day02/ex01/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex01/main.cpp.o
+.PHONY : day02/ex01/main.cpp.o
+
+day02/ex01/main.i: day02/ex01/main.cpp.i
+
+.PHONY : day02/ex01/main.i
+
+# target to preprocess a source file
+day02/ex01/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex01/main.cpp.i
+.PHONY : day02/ex01/main.cpp.i
+
+day02/ex01/main.s: day02/ex01/main.cpp.s
+
+.PHONY : day02/ex01/main.s
+
+# target to generate assembly for a file
+day02/ex01/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day02/ex01/main.cpp.s
+.PHONY : day02/ex01/main.cpp.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_pool"
-	@echo "... day02/ex00/Fixed.o"
-	@echo "... day02/ex00/Fixed.i"
-	@echo "... day02/ex00/Fixed.s"
-	@echo "... day02/ex00/main.o"
-	@echo "... day02/ex00/main.i"
-	@echo "... day02/ex00/main.s"
+	@echo "... day02/ex01/Fixed.o"
+	@echo "... day02/ex01/Fixed.i"
+	@echo "... day02/ex01/Fixed.s"
+	@echo "... day02/ex01/main.o"
+	@echo "... day02/ex01/main.i"
+	@echo "... day02/ex01/main.s"
 .PHONY : help
 
 

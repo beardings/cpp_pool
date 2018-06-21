@@ -6,19 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/mponomar/cpp_pool/day01/ex09/Logger.cpp
-Logger.hpp
-/Users/mponomar/cpp_pool/day01/ex09/Logger.hpp
+/Users/mponomar/cpp_pool/day02/ex01/Fixed.cpp
+Fixed.hpp
+/Users/mponomar/cpp_pool/day02/ex01/Fixed.hpp
 
-/Users/mponomar/cpp_pool/day01/ex09/Logger.hpp
+/Users/mponomar/cpp_pool/day02/ex01/Fixed.hpp
 iostream
 -
-fstream
--
-ctime
+cmath
 -
 
-/Users/mponomar/cpp_pool/day01/ex09/main.cpp
-Logger.hpp
-/Users/mponomar/cpp_pool/day01/ex09/Logger.hpp
+/Users/mponomar/cpp_pool/day02/ex01/main.cpp
+Fixed.hpp
+/Users/mponomar/cpp_pool/day02/ex01/Fixed.hpp
 
