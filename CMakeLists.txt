@@ -3,4 +3,4 @@ project(cpp_pool)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cpp_pool day02/ex01/main.cpp day02/ex01/Fixed.cpp day02/ex01/Fixed.hpp)
+add_executable(cpp_pool day02/ex02/main.cpp day02/ex02/Fixed.cpp day02/ex02/Fixed.hpp)
