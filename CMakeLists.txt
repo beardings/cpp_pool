@@ -3,17 +3,4 @@ project(cpp_pool)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cpp_pool
-        day04/ex01/main.cpp
-        day04/ex01/AWeapon.cpp
-        day04/ex01/AWeapon.hpp
-        day04/ex01/PlasmaRifle.cpp
-        day04/ex01/PlasmaRifle.hpp
-        day04/ex01/PowerFist.cpp
-        day04/ex01/PowerFist.hpp
-        day04/ex01/Enemy.cpp
-        day04/ex01/Enemy.hpp
-        day04/ex01/SuperMutant.cpp
-        day04/ex01/SuperMutant.hpp
-        day04/ex01/RadScorpionpp.cpp
-        day04/ex01/RadScorpion.hpp day04/ex01/Character.cpp day04/ex01/Character.hpp)
+add_executable(cpp_pool day04/ex02/main.cpp day04/ex02/Squad.cpp day04/ex02/Squad.hpp day04/ex02/ISquad.hpp day04/ex02/ISpaceMarine.hpp day04/ex02/TacticalMarine.cpp day04/ex02/TacticalMarine.hpp day04/ex02/AssaultTerminator.cpp day04/ex02/AssaultTerminator.hpp)

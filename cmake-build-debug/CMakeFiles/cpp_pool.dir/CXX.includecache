@@ -6,39 +6,47 @@
 
 #IncludeRegexTransform: 
 
-/Users/mponomar/cpp_pool/day04/ex00/Peon.cpp
-Peon.hpp
-/Users/mponomar/cpp_pool/day04/ex00/Peon.hpp
+/Users/mponomar/cpp_pool/day04/ex02/AssaultTerminator.cpp
+AssaultTerminator.hpp
+/Users/mponomar/cpp_pool/day04/ex02/AssaultTerminator.hpp
 
-/Users/mponomar/cpp_pool/day04/ex00/Peon.hpp
+/Users/mponomar/cpp_pool/day04/ex02/AssaultTerminator.hpp
 iostream
 -
-Victim.hpp
-/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
+ISpaceMarine.hpp
+/Users/mponomar/cpp_pool/day04/ex02/ISpaceMarine.hpp
 
-/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.cpp
-Sorcerer.hpp
-/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.hpp
+/Users/mponomar/cpp_pool/day04/ex02/ISpaceMarine.hpp
 
-/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.hpp
+/Users/mponomar/cpp_pool/day04/ex02/ISquad.hpp
+ISpaceMarine.hpp
+/Users/mponomar/cpp_pool/day04/ex02/ISpaceMarine.hpp
+
+/Users/mponomar/cpp_pool/day04/ex02/Squad.cpp
+Squad.hpp
+/Users/mponomar/cpp_pool/day04/ex02/Squad.hpp
+
+/Users/mponomar/cpp_pool/day04/ex02/Squad.hpp
 iostream
 -
-Victim.hpp
-/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
+ISquad.hpp
+/Users/mponomar/cpp_pool/day04/ex02/ISquad.hpp
 
-/Users/mponomar/cpp_pool/day04/ex00/Victim.cpp
-Victim.hpp
-/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
+/Users/mponomar/cpp_pool/day04/ex02/TacticalMarine.cpp
+TacticalMarine.hpp
+/Users/mponomar/cpp_pool/day04/ex02/TacticalMarine.hpp
 
-/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
+/Users/mponomar/cpp_pool/day04/ex02/TacticalMarine.hpp
 iostream
 -
+ISpaceMarine.hpp
+/Users/mponomar/cpp_pool/day04/ex02/ISpaceMarine.hpp
 
-/Users/mponomar/cpp_pool/day04/ex00/main.cpp
-Peon.hpp
-/Users/mponomar/cpp_pool/day04/ex00/Peon.hpp
-Victim.hpp
-/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
-Sorcerer.hpp
-/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.hpp
+/Users/mponomar/cpp_pool/day04/ex02/main.cpp
+Squad.hpp
+/Users/mponomar/cpp_pool/day04/ex02/Squad.hpp
+TacticalMarine.hpp
+/Users/mponomar/cpp_pool/day04/ex02/TacticalMarine.hpp
+AssaultTerminator.hpp
+/Users/mponomar/cpp_pool/day04/ex02/AssaultTerminator.hpp
 
