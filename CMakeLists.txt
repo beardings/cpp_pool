@@ -4,10 +4,16 @@ project(cpp_pool)
 set(CMAKE_CXX_STANDARD 98)
 
 add_executable(cpp_pool
-        day04/ex00/main.cpp
-        day04/ex00/Peon.cpp
-        day04/ex00/Peon.hpp
-        day04/ex00/Victim.cpp
-        day04/ex00/Victim.hpp
-        day04/ex00/Sorcerer.cpp
-        day04/ex00/Sorcerer.hpp)
+        day04/ex01/main.cpp
+        day04/ex01/AWeapon.cpp
+        day04/ex01/AWeapon.hpp
+        day04/ex01/PlasmaRifle.cpp
+        day04/ex01/PlasmaRifle.hpp
+        day04/ex01/PowerFist.cpp
+        day04/ex01/PowerFist.hpp
+        day04/ex01/Enemy.cpp
+        day04/ex01/Enemy.hpp
+        day04/ex01/SuperMutant.cpp
+        day04/ex01/SuperMutant.hpp
+        day04/ex01/RadScorpionpp.cpp
+        day04/ex01/RadScorpion.hpp day04/ex01/Character.cpp day04/ex01/Character.hpp)

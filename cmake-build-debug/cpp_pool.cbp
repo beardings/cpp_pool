@@ -80,25 +80,49 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Peon.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/AWeapon.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Peon.hpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/AWeapon.hpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/Character.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.hpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/Character.hpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Victim.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/Enemy.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/Enemy.hpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/main.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/PlasmaRifle.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/PlasmaRifle.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/PowerFist.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/PowerFist.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/RadScorpion.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/RadScorpionpp.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/SuperMutant.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/SuperMutant.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex01/main.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
 		<Unit filename="/Users/mponomar/cpp_pool/CMakeLists.txt">

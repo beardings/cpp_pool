@@ -4,10 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/mponomar/cpp_pool/day04/ex00/Peon.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex00/Peon.cpp.o"
-  "/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex00/Sorcerer.cpp.o"
-  "/Users/mponomar/cpp_pool/day04/ex00/Victim.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex00/Victim.cpp.o"
-  "/Users/mponomar/cpp_pool/day04/ex00/main.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex00/main.cpp.o"
+  "/Users/mponomar/cpp_pool/day04/ex01/AWeapon.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex01/AWeapon.cpp.o"
+  "/Users/mponomar/cpp_pool/day04/ex01/Character.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex01/Character.cpp.o"
+  "/Users/mponomar/cpp_pool/day04/ex01/Enemy.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex01/Enemy.cpp.o"
+  "/Users/mponomar/cpp_pool/day04/ex01/PlasmaRifle.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex01/PlasmaRifle.cpp.o"
+  "/Users/mponomar/cpp_pool/day04/ex01/PowerFist.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex01/PowerFist.cpp.o"
+  "/Users/mponomar/cpp_pool/day04/ex01/RadScorpionpp.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex01/RadScorpionpp.cpp.o"
+  "/Users/mponomar/cpp_pool/day04/ex01/SuperMutant.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex01/SuperMutant.cpp.o"
+  "/Users/mponomar/cpp_pool/day04/ex01/main.cpp" "/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles/cpp_pool.dir/day04/ex01/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
