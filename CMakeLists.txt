@@ -3,4 +3,11 @@ project(cpp_pool)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cpp_pool day02/ex02/main.cpp day02/ex02/Fixed.cpp day02/ex02/Fixed.hpp)
+add_executable(cpp_pool
+        day04/ex00/main.cpp
+        day04/ex00/Peon.cpp
+        day04/ex00/Peon.hpp
+        day04/ex00/Victim.cpp
+        day04/ex00/Victim.hpp
+        day04/ex00/Sorcerer.cpp
+        day04/ex00/Sorcerer.hpp)

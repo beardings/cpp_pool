@@ -80,13 +80,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/mponomar/cpp_pool/day02/ex02/Fixed.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Peon.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day02/ex02/Fixed.hpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Peon.hpp">
 			<Option target="cpp_pool"/>
 		</Unit>
-		<Unit filename="/Users/mponomar/cpp_pool/day02/ex02/main.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Victim.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day04/ex00/main.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
 		<Unit filename="/Users/mponomar/cpp_pool/CMakeLists.txt">

@@ -6,17 +6,39 @@
 
 #IncludeRegexTransform: 
 
-/Users/mponomar/cpp_pool/day02/ex01/Fixed.cpp
-Fixed.hpp
-/Users/mponomar/cpp_pool/day02/ex01/Fixed.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Peon.cpp
+Peon.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Peon.hpp
 
-/Users/mponomar/cpp_pool/day02/ex01/Fixed.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Peon.hpp
 iostream
 -
-cmath
+Victim.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
+
+/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.cpp
+Sorcerer.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.hpp
+
+/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.hpp
+iostream
+-
+Victim.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
+
+/Users/mponomar/cpp_pool/day04/ex00/Victim.cpp
+Victim.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
+
+/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
+iostream
 -
 
-/Users/mponomar/cpp_pool/day02/ex01/main.cpp
-Fixed.hpp
-/Users/mponomar/cpp_pool/day02/ex01/Fixed.hpp
+/Users/mponomar/cpp_pool/day04/ex00/main.cpp
+Peon.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Peon.hpp
+Victim.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Victim.hpp
+Sorcerer.hpp
+/Users/mponomar/cpp_pool/day04/ex00/Sorcerer.hpp
 
