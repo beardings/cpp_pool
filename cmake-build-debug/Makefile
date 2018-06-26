@@ -123,113 +123,32 @@ cpp_pool/fast:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/build
 .PHONY : cpp_pool/fast
 
-day04/ex02/AssaultTerminator.o: day04/ex02/AssaultTerminator.cpp.o
+day06/ex00/main.o: day06/ex00/main.cpp.o
 
-.PHONY : day04/ex02/AssaultTerminator.o
-
-# target to build an object file
-day04/ex02/AssaultTerminator.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o
-.PHONY : day04/ex02/AssaultTerminator.cpp.o
-
-day04/ex02/AssaultTerminator.i: day04/ex02/AssaultTerminator.cpp.i
-
-.PHONY : day04/ex02/AssaultTerminator.i
-
-# target to preprocess a source file
-day04/ex02/AssaultTerminator.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.i
-.PHONY : day04/ex02/AssaultTerminator.cpp.i
-
-day04/ex02/AssaultTerminator.s: day04/ex02/AssaultTerminator.cpp.s
-
-.PHONY : day04/ex02/AssaultTerminator.s
-
-# target to generate assembly for a file
-day04/ex02/AssaultTerminator.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.s
-.PHONY : day04/ex02/AssaultTerminator.cpp.s
-
-day04/ex02/Squad.o: day04/ex02/Squad.cpp.o
-
-.PHONY : day04/ex02/Squad.o
+.PHONY : day06/ex00/main.o
 
 # target to build an object file
-day04/ex02/Squad.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o
-.PHONY : day04/ex02/Squad.cpp.o
+day06/ex00/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o
+.PHONY : day06/ex00/main.cpp.o
 
-day04/ex02/Squad.i: day04/ex02/Squad.cpp.i
+day06/ex00/main.i: day06/ex00/main.cpp.i
 
-.PHONY : day04/ex02/Squad.i
-
-# target to preprocess a source file
-day04/ex02/Squad.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.i
-.PHONY : day04/ex02/Squad.cpp.i
-
-day04/ex02/Squad.s: day04/ex02/Squad.cpp.s
-
-.PHONY : day04/ex02/Squad.s
-
-# target to generate assembly for a file
-day04/ex02/Squad.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.s
-.PHONY : day04/ex02/Squad.cpp.s
-
-day04/ex02/TacticalMarine.o: day04/ex02/TacticalMarine.cpp.o
-
-.PHONY : day04/ex02/TacticalMarine.o
-
-# target to build an object file
-day04/ex02/TacticalMarine.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o
-.PHONY : day04/ex02/TacticalMarine.cpp.o
-
-day04/ex02/TacticalMarine.i: day04/ex02/TacticalMarine.cpp.i
-
-.PHONY : day04/ex02/TacticalMarine.i
+.PHONY : day06/ex00/main.i
 
 # target to preprocess a source file
-day04/ex02/TacticalMarine.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.i
-.PHONY : day04/ex02/TacticalMarine.cpp.i
+day06/ex00/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.i
+.PHONY : day06/ex00/main.cpp.i
 
-day04/ex02/TacticalMarine.s: day04/ex02/TacticalMarine.cpp.s
+day06/ex00/main.s: day06/ex00/main.cpp.s
 
-.PHONY : day04/ex02/TacticalMarine.s
-
-# target to generate assembly for a file
-day04/ex02/TacticalMarine.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.s
-.PHONY : day04/ex02/TacticalMarine.cpp.s
-
-day04/ex02/main.o: day04/ex02/main.cpp.o
-
-.PHONY : day04/ex02/main.o
-
-# target to build an object file
-day04/ex02/main.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o
-.PHONY : day04/ex02/main.cpp.o
-
-day04/ex02/main.i: day04/ex02/main.cpp.i
-
-.PHONY : day04/ex02/main.i
-
-# target to preprocess a source file
-day04/ex02/main.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.i
-.PHONY : day04/ex02/main.cpp.i
-
-day04/ex02/main.s: day04/ex02/main.cpp.s
-
-.PHONY : day04/ex02/main.s
+.PHONY : day06/ex00/main.s
 
 # target to generate assembly for a file
-day04/ex02/main.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.s
-.PHONY : day04/ex02/main.cpp.s
+day06/ex00/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.s
+.PHONY : day06/ex00/main.cpp.s
 
 # Help Target
 help:
@@ -240,18 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_pool"
-	@echo "... day04/ex02/AssaultTerminator.o"
-	@echo "... day04/ex02/AssaultTerminator.i"
-	@echo "... day04/ex02/AssaultTerminator.s"
-	@echo "... day04/ex02/Squad.o"
-	@echo "... day04/ex02/Squad.i"
-	@echo "... day04/ex02/Squad.s"
-	@echo "... day04/ex02/TacticalMarine.o"
-	@echo "... day04/ex02/TacticalMarine.i"
-	@echo "... day04/ex02/TacticalMarine.s"
-	@echo "... day04/ex02/main.o"
-	@echo "... day04/ex02/main.i"
-	@echo "... day04/ex02/main.s"
+	@echo "... day06/ex00/main.o"
+	@echo "... day06/ex00/main.i"
+	@echo "... day06/ex00/main.s"
 .PHONY : help
 
 

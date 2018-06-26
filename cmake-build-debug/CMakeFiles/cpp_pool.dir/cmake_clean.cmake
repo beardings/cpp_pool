@@ -1,8 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o"
-  "CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o"
-  "CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o"
-  "CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o"
+  "CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o"
   "cpp_pool.pdb"
   "cpp_pool"
 )

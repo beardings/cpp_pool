@@ -57,119 +57,41 @@ include CMakeFiles/cpp_pool.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/cpp_pool.dir/flags.make
 
-CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
-CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o: ../day04/ex02/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o -c /Users/mponomar/cpp_pool/day04/ex02/main.cpp
+CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
+CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o: ../day06/ex00/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o -c /Users/mponomar/cpp_pool/day06/ex00/main.cpp
 
-CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day04/ex02/main.cpp > CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.i
+CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day06/ex00/main.cpp > CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.i
 
-CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day04/ex02/main.cpp -o CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.s
+CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day06/ex00/main.cpp -o CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.s
 
-CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o.requires:
+CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o.requires:
 
-.PHONY : CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o.requires
+.PHONY : CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o.requires
 
-CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o.provides: CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o.provides.build
-.PHONY : CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o.provides
+CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o.provides: CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o.provides
 
-CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o
-
-
-CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
-CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o: ../day04/ex02/Squad.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o -c /Users/mponomar/cpp_pool/day04/ex02/Squad.cpp
-
-CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day04/ex02/Squad.cpp > CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.i
-
-CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day04/ex02/Squad.cpp -o CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.s
-
-CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o.requires:
-
-.PHONY : CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o.requires
-
-CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o.provides: CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o.provides.build
-.PHONY : CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o.provides
-
-CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o
-
-
-CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
-CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o: ../day04/ex02/TacticalMarine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o -c /Users/mponomar/cpp_pool/day04/ex02/TacticalMarine.cpp
-
-CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day04/ex02/TacticalMarine.cpp > CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.i
-
-CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day04/ex02/TacticalMarine.cpp -o CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.s
-
-CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o.requires:
-
-.PHONY : CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o.requires
-
-CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o.provides: CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o.provides.build
-.PHONY : CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o.provides
-
-CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o
-
-
-CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o: CMakeFiles/cpp_pool.dir/flags.make
-CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o: ../day04/ex02/AssaultTerminator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o -c /Users/mponomar/cpp_pool/day04/ex02/AssaultTerminator.cpp
-
-CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mponomar/cpp_pool/day04/ex02/AssaultTerminator.cpp > CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.i
-
-CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mponomar/cpp_pool/day04/ex02/AssaultTerminator.cpp -o CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.s
-
-CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o.requires:
-
-.PHONY : CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o.requires
-
-CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o.provides: CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o.provides.build
-.PHONY : CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o.provides
-
-CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o
+CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o.provides.build: CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o
 
 
 # Object files for target cpp_pool
 cpp_pool_OBJECTS = \
-"CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o" \
-"CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o" \
-"CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o" \
-"CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o"
+"CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o"
 
 # External object files for target cpp_pool
 cpp_pool_EXTERNAL_OBJECTS =
 
-cpp_pool: CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o
-cpp_pool: CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o
-cpp_pool: CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o
-cpp_pool: CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o
+cpp_pool: CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o
 cpp_pool: CMakeFiles/cpp_pool.dir/build.make
 cpp_pool: CMakeFiles/cpp_pool.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable cpp_pool"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mponomar/cpp_pool/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable cpp_pool"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_pool.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -177,10 +99,7 @@ CMakeFiles/cpp_pool.dir/build: cpp_pool
 
 .PHONY : CMakeFiles/cpp_pool.dir/build
 
-CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day04/ex02/main.cpp.o.requires
-CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day04/ex02/Squad.cpp.o.requires
-CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day04/ex02/TacticalMarine.cpp.o.requires
-CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day04/ex02/AssaultTerminator.cpp.o.requires
+CMakeFiles/cpp_pool.dir/requires: CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o.requires
 
 .PHONY : CMakeFiles/cpp_pool.dir/requires
 
