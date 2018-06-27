@@ -5,20 +5,26 @@
 #include <iostream>
 #include <iomanip>
 
-void castToDouble(std::string str)
+void castToDouble(std::string str, std::string sign)
 {
     std::cout << "double: "; // 8 = 64
 
     try {
 
-        if ((std::stold(str) < std::numeric_limits<double>::min()))
-            throw std::exception();
-        if ((std::stold(str) > std::numeric_limits<double>::max()))
-            throw std::exception();
+        if (str != "0" && str != "0.0" && str != "0.0f")
+        {
+            if ((std::stold(str) < std::numeric_limits<double>::min()))
+                throw std::exception();
+            if ((std::stold(str) > std::numeric_limits<double>::max()))
+                throw std::exception();
+        }
 
         double d = static_cast<double>(std::stod(str));
 
-        std::cout << d << std::endl;
+        if (d == 0 || sign == "+")
+            sign = "";
+
+        std::cout << sign << d << std::endl;
 
     } catch (std::exception &error) {
 
@@ -27,21 +33,27 @@ void castToDouble(std::string str)
 }
 
 
-void castToFloat(std::string str)
+void castToFloat(std::string str, std::string sign)
 {
     std::cout << "float: "; // 4 = 32
 
     try {
 
-        if ((std::stod(str) < std::numeric_limits<float>::min()))
-            throw std::exception();
+        if (str != "0" && str != "0.0" && str != "0.0f")
+        {
+            if ((std::stod(str) < std::numeric_limits<float>::min()))
+                throw std::exception();
 
-        if ((std::stod(str) > std::numeric_limits<float>::max()))
-            throw std::exception();
+            if ((std::stod(str) > std::numeric_limits<float>::max()))
+                throw std::exception();
+        }
 
         float f = static_cast<float>(std::stof(str));
 
-        std::cout << std::setprecision(1) << std::fixed << f << "f" << std::endl;
+        if (f == 0 || sign == "+")
+            sign = "";
+
+        std::cout << std::setprecision(1) << std::fixed << sign << f << "f" << std::endl;
 
     } catch (std::exception &error) {
 
@@ -107,10 +119,32 @@ int main(int argc, char **argv)
 
     std::string str = argv[1];
 
+    char *str2 = argv[1];
+
+    std::string sign = "";
+
+    std::string strNew = "";
+
+    if (str2[0] == '-') {
+
+        str2 += 1;
+        strNew = str2;
+        sign = "-";
+    }
+    else if (str2[0] == '+')
+    {
+        str2 += 1;
+        strNew = str2;
+        sign = "+";
+    }
+
+
+
     castToChar(str);
     castToInt(str);
-    castToFloat(str);
-    castToDouble(str);
+
+    sign != "-" && sign != "+"? castToFloat(str, sign) : castToFloat(strNew, sign);
+    sign != "-" && sign != "+"? castToDouble(str, sign) : castToDouble(strNew, sign);
 
     return (0);
 }

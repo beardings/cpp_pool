@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/mponomar/cpp_pool/day06/ex01/main.cpp
+/Users/mponomar/cpp_pool/day06/ex00/main.cpp
 iostream
+-
+iomanip
 -
 
