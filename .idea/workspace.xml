@@ -176,6 +176,11 @@
               <item name="day06" type="462c0819:PsiDirectoryNode" />
               <item name="ex00" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cpp_pool" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="cpp_pool" type="462c0819:PsiDirectoryNode" />
+              <item name="rush00" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -378,7 +383,7 @@
       <workItem from="1529761320655" duration="4241000" />
       <workItem from="1529766724166" duration="867000" />
       <workItem from="1529767752446" duration="9249000" />
-      <workItem from="1530119643016" duration="455000" />
+      <workItem from="1530119643016" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="day00 - ex00 - done">
       <created>1522779553548</created>
@@ -499,11 +504,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529778040407</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add rush00">
+      <created>1530121030477</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1530121030477</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59857000" />
+    <option name="totallyTimeSpent" value="59881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -571,7 +583,8 @@
     <MESSAGE value="add day03 - ex00, ex01&#10;add day04 - ex00" />
     <MESSAGE value="add day04 - ex01" />
     <MESSAGE value="add day04 - ex02" />
-    <option name="LAST_COMMIT_MESSAGE" value="add day04 - ex02" />
+    <MESSAGE value="add rush00" />
+    <option name="LAST_COMMIT_MESSAGE" value="add rush00" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
