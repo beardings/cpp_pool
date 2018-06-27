@@ -80,7 +80,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/mponomar/cpp_pool/day06/ex00/main.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex02/A.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex02/A.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex02/B.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex02/B.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex02/Base.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex02/Base.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex02/C.cpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex02/C.hpp">
+			<Option target="cpp_pool"/>
+		</Unit>
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex02/main.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
 		<Unit filename="/Users/mponomar/cpp_pool/CMakeLists.txt">

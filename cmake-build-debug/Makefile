@@ -123,32 +123,140 @@ cpp_pool/fast:
 	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/build
 .PHONY : cpp_pool/fast
 
-day06/ex00/main.o: day06/ex00/main.cpp.o
+day06/ex02/A.o: day06/ex02/A.cpp.o
 
-.PHONY : day06/ex00/main.o
+.PHONY : day06/ex02/A.o
 
 # target to build an object file
-day06/ex00/main.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.o
-.PHONY : day06/ex00/main.cpp.o
+day06/ex02/A.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/A.cpp.o
+.PHONY : day06/ex02/A.cpp.o
 
-day06/ex00/main.i: day06/ex00/main.cpp.i
+day06/ex02/A.i: day06/ex02/A.cpp.i
 
-.PHONY : day06/ex00/main.i
+.PHONY : day06/ex02/A.i
 
 # target to preprocess a source file
-day06/ex00/main.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.i
-.PHONY : day06/ex00/main.cpp.i
+day06/ex02/A.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/A.cpp.i
+.PHONY : day06/ex02/A.cpp.i
 
-day06/ex00/main.s: day06/ex00/main.cpp.s
+day06/ex02/A.s: day06/ex02/A.cpp.s
 
-.PHONY : day06/ex00/main.s
+.PHONY : day06/ex02/A.s
 
 # target to generate assembly for a file
-day06/ex00/main.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex00/main.cpp.s
-.PHONY : day06/ex00/main.cpp.s
+day06/ex02/A.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/A.cpp.s
+.PHONY : day06/ex02/A.cpp.s
+
+day06/ex02/B.o: day06/ex02/B.cpp.o
+
+.PHONY : day06/ex02/B.o
+
+# target to build an object file
+day06/ex02/B.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/B.cpp.o
+.PHONY : day06/ex02/B.cpp.o
+
+day06/ex02/B.i: day06/ex02/B.cpp.i
+
+.PHONY : day06/ex02/B.i
+
+# target to preprocess a source file
+day06/ex02/B.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/B.cpp.i
+.PHONY : day06/ex02/B.cpp.i
+
+day06/ex02/B.s: day06/ex02/B.cpp.s
+
+.PHONY : day06/ex02/B.s
+
+# target to generate assembly for a file
+day06/ex02/B.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/B.cpp.s
+.PHONY : day06/ex02/B.cpp.s
+
+day06/ex02/Base.o: day06/ex02/Base.cpp.o
+
+.PHONY : day06/ex02/Base.o
+
+# target to build an object file
+day06/ex02/Base.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/Base.cpp.o
+.PHONY : day06/ex02/Base.cpp.o
+
+day06/ex02/Base.i: day06/ex02/Base.cpp.i
+
+.PHONY : day06/ex02/Base.i
+
+# target to preprocess a source file
+day06/ex02/Base.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/Base.cpp.i
+.PHONY : day06/ex02/Base.cpp.i
+
+day06/ex02/Base.s: day06/ex02/Base.cpp.s
+
+.PHONY : day06/ex02/Base.s
+
+# target to generate assembly for a file
+day06/ex02/Base.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/Base.cpp.s
+.PHONY : day06/ex02/Base.cpp.s
+
+day06/ex02/C.o: day06/ex02/C.cpp.o
+
+.PHONY : day06/ex02/C.o
+
+# target to build an object file
+day06/ex02/C.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/C.cpp.o
+.PHONY : day06/ex02/C.cpp.o
+
+day06/ex02/C.i: day06/ex02/C.cpp.i
+
+.PHONY : day06/ex02/C.i
+
+# target to preprocess a source file
+day06/ex02/C.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/C.cpp.i
+.PHONY : day06/ex02/C.cpp.i
+
+day06/ex02/C.s: day06/ex02/C.cpp.s
+
+.PHONY : day06/ex02/C.s
+
+# target to generate assembly for a file
+day06/ex02/C.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/C.cpp.s
+.PHONY : day06/ex02/C.cpp.s
+
+day06/ex02/main.o: day06/ex02/main.cpp.o
+
+.PHONY : day06/ex02/main.o
+
+# target to build an object file
+day06/ex02/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/main.cpp.o
+.PHONY : day06/ex02/main.cpp.o
+
+day06/ex02/main.i: day06/ex02/main.cpp.i
+
+.PHONY : day06/ex02/main.i
+
+# target to preprocess a source file
+day06/ex02/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/main.cpp.i
+.PHONY : day06/ex02/main.cpp.i
+
+day06/ex02/main.s: day06/ex02/main.cpp.s
+
+.PHONY : day06/ex02/main.s
+
+# target to generate assembly for a file
+day06/ex02/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_pool.dir/build.make CMakeFiles/cpp_pool.dir/day06/ex02/main.cpp.s
+.PHONY : day06/ex02/main.cpp.s
 
 # Help Target
 help:
@@ -159,9 +267,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cpp_pool"
-	@echo "... day06/ex00/main.o"
-	@echo "... day06/ex00/main.i"
-	@echo "... day06/ex00/main.s"
+	@echo "... day06/ex02/A.o"
+	@echo "... day06/ex02/A.i"
+	@echo "... day06/ex02/A.s"
+	@echo "... day06/ex02/B.o"
+	@echo "... day06/ex02/B.i"
+	@echo "... day06/ex02/B.s"
+	@echo "... day06/ex02/Base.o"
+	@echo "... day06/ex02/Base.i"
+	@echo "... day06/ex02/Base.s"
+	@echo "... day06/ex02/C.o"
+	@echo "... day06/ex02/C.i"
+	@echo "... day06/ex02/C.s"
+	@echo "... day06/ex02/main.o"
+	@echo "... day06/ex02/main.i"
+	@echo "... day06/ex02/main.s"
 .PHONY : help
 
 

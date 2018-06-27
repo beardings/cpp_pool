@@ -1,6 +1,10 @@
 NAME = identify
 
-SOURCE = main.cpp
+SOURCE = main.cpp \
+        A.cpp \
+        B.cpp \
+        c.cpp \
+        Base.cpp
 
 OBJECTS = $(SOURCE:.cpp=.o)
 

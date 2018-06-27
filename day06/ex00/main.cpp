@@ -138,8 +138,6 @@ int main(int argc, char **argv)
         sign = "+";
     }
 
-
-
     castToChar(str);
     castToInt(str);
 
