@@ -3,4 +3,4 @@ project(cpp_pool)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cpp_pool day06/ex00/main.cpp)
+add_executable(cpp_pool day06/ex01/main.cpp)

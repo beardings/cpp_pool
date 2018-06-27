@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/mponomar/cpp_pool/day06/ex00/main.cpp">
+		<Unit filename="/Users/mponomar/cpp_pool/day06/ex01/main.cpp">
 			<Option target="cpp_pool"/>
 		</Unit>
 		<Unit filename="/Users/mponomar/cpp_pool/CMakeLists.txt">
